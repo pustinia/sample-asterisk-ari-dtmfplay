@@ -1,2 +1,4 @@
 # sample-asterisk-ari-dtmfplay
-ari sample of asterisk. for dtmf digit play
+ari sample of asterisk. for dtmf digit playback.
+
+
